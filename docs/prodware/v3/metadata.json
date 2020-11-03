@@ -1,9 +1,76 @@
 {
   "Technologies": [
-   
+    {
+      "Id": "c9c28837-e941-4e91-b0df-c41a7d3f412a",
+      "Name": "Excel",
+      "Subjects": []
+    },
     {
       "Id": "309b4120-9366-4257-bc06-1d9dd090fe85",
       "Name": "Forms",
+      "Subjects": []
+    },
+    {
+      "Id": "93adcf64-361a-4c4b-802e-6eb6976bd305",
+      "Name": "Microsoft 365",
+      "Subjects": [
+        {
+          "Id": "7e576325-54d7-4b38-961c-4daf0db790c2",
+          "Name": "Office 365"
+        },
+        {
+          "Id": "1405d537-12d4-46f6-b901-64f0f58ee2a9",
+          "Name": "Windows 10"
+        }
+      ]
+    },
+    {
+      "Id": "a393ee0a-c596-477a-a701-22a4b5200852",
+      "Name": "Microsoft Teams",
+      "Subjects": [
+        {
+          "Id": "cc5dfc21-9da4-4741-95c5-f74b61886c94",
+          "Name": "PSTN Calling"
+        },
+        {
+          "Id": "9f3f0f91-473e-412c-bd7e-dc53888d81f2",
+          "Name": "Meetings"
+        }
+      ]
+    },
+    {
+      "Id": "77d7953a-de02-466a-a801-f3209f7f3ea1",
+      "Name": "Office 365",
+      "Subjects": []
+    },
+    {
+      "Id": "2a127aff-716d-4238-8ef6-a7e6355753c2",
+      "Name": "OneDrive",
+      "Subjects": []
+    },
+    {
+      "Id": "0ba74998-3b61-4374-93aa-f59b41a58a09",
+      "Name": "OneDrive for Business",
+      "Subjects": []
+    },
+    {
+      "Id": "d44c291d-f567-4556-babd-a0940afa5e43",
+      "Name": "OneNote",
+      "Subjects": []
+    },
+    {
+      "Id": "c78e5ac6-dafa-41e5-a988-54cea94be0fc",
+      "Name": "Outlook",
+      "Subjects": []
+    },
+    {
+      "Id": "63af3ef3-4e32-4b67-8782-e9bbca88d130",
+      "Name": "Planner",
+      "Subjects": []
+    },
+    {
+      "Id": "c1d66f4d-b473-4ba4-9ade-0d17c6fe5db1",
+      "Name": "PowerPoint",
       "Subjects": []
     },
     {
@@ -11,22 +78,28 @@
       "Name": "SharePoint",
       "Subjects": [
         {
-          "Id": "de081db5-7e5c-4819-8614-a4158bf9a82f",
-          "Name": "Page Editing"
+          "Id": "4b10d31b-f85f-4b81-8635-4947422f15b6",
+          "Name": "Site Planning"
         },
         {
-          "Id": "16cebced-e64d-40e6-a6cf-504d1b295f6c",
-          "Name": "Web Parts"
+          "Id": "414c8533-515f-4eb7-b65c-4f83a4536a2a",
+          "Name": "Site Creation"
         },
         {
           "Id": "18c061f0-49c0-4acd-98cb-cc6999c3a3fe",
           "Name": "Site Branding and Customization"
-        },
-        {
-          "Id": "128c5862-9335-447d-9e52-4ce2cd22489c",
-          "Name": "Using modern sites"
         }
       ]
+    },
+    {
+      "Id": "3751902a-f7e6-4db2-928d-d9c8b836cb53",
+      "Name": "Windows 10",
+      "Subjects": []
+    },
+    {
+      "Id": "47d65f54-14ba-4218-8b94-84836e42d9a9",
+      "Name": "Word",
+      "Subjects": []
     },
     {
       "Id": "7784ef56-9bac-48ba-83f9-1ae1b09f7336",
@@ -44,40 +117,17 @@
       "Subjects": []
     },
     {
-      "Id": "77d7953a-de02-466a-a801-f3209f7f3ea1",
-      "Name": "Office 365",
+      "Id": "f1688725-7391-4e5f-9921-9cfb92ae6c44",
+      "Name": "Outlook for iOS and Android",
+      "Subjects": []
+    },
+    {
+      "Id": "7342001b-6676-4ec8-bcb3-ef041ac860f2",
+      "Name": "Access",
       "Subjects": []
     }
   ],
   "Categories": [
-    {
-      "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
-      "Name": "Get Started",
-      "Image": "",
-      "TechnologyId": "",
-      "SubjectId": "",
-      "Source": "Microsoft",
-      "SubCategories": [
-        {
-          "Id": "9bde32c3-2f0b-4201-b4a3-74cef2c8f61d",
-          "Name": "First Days",
-          "Image": "images/categories/first_days.png",
-          "TechnologyId": "",
-          "SubjectId": null,
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
-        {
-          "Id": "07aa7fb7-a187-4a04-a044-f881626a8cba",
-          "Name": "Recommended",
-          "Image": "images/categories/recommended.png",
-          "TechnologyId": "",
-          "SubjectId": null,
-          "Source": "Microsoft",
-          "SubCategories": []
-        }
-      ]
-    },
     {
       "Id": "618da7fa-0ed2-4653-9dfd-271c3bbe3a44",
       "Name": "Products",
@@ -101,24 +151,6 @@
           "Name": "Forms",
           "Image": "images/categories/forms_training.png",
           "TechnologyId": "309b4120-9366-4257-bc06-1d9dd090fe85",
-          "SubjectId": null,
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
-        {
-          "Id": "5bbbe57f-709b-40b2-bec8-af0633d3582b",
-          "Name": "Accessibility",
-          "Image": "images/categories/accessibility.png",
-          "TechnologyId": "4f0d166f-5ae5-4490-b2b1-749a172181d4",
-          "SubjectId": null,
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
-        {
-          "Id": "a4a6fcbd-8823-4e88-8c5a-983f81073edc",
-          "Name": "Stream",
-          "Image": "images/categories/stream.png",
-          "TechnologyId": "77d7953a-de02-466a-a801-f3209f7f3ea1",
           "SubjectId": null,
           "Source": "Microsoft",
           "SubCategories": []
@@ -225,7 +257,7 @@
   "Version": {
     "Manifest": "v3",
     "ManifestMinWebPart": "3.0.0",
-    "CurrentWebPart": "3.0.4",
+    "CurrentWebPart": "3.0.2",
     "RepoURL": "https://github.com/pnp/custom-learning-office-365#updating-the-solution"
   },
   "ContentPacks": [],
