@@ -1,35 +1,35 @@
 {
   "Technologies": [
     {
-      "Id": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
+      "Id": "b003e369-298f-44dc-b28d-7e35a68c7e12",
       "Name": "FR - Tech 1",
       "Subjects": []
     },
     {
-      "Id": "33059862-a87d-4b40-9984-be7c6083cf95",
+      "Id": "4bdc7b31-424b-4e41-93f2-253ba70f175a",
       "Name": "FR - Tech 2",
       "Subjects": []
     },
     {
-      "Id": "e75b9087-6bb2-417f-a696-e667bea533a7",
+      "Id": "87b61491-0170-4fea-afcf-fd91714f21c5",
       "Name": "FR - Tech 3",
       "Subjects": [
         {
-          "Id": "f1b531e0-2a62-4007-8858-08bd8be6ecae",
+          "Id": "5d9a5514-5044-44ae-bf91-bc74e4f5cc47",
           "Name": "FR - Tech 1 - Sujet 1"
         }
       ]
     },
     {
-      "Id": "c209f64e-0291-437a-9615-17747eab50d0",
+      "Id": "2df99430-79ae-45f1-b702-3452dc17589e",
       "Name": "FR - Tech 4",
       "Subjects": [
         {
-          "Id": "3bd4b767-148f-4f53-a206-b42e9f3a73cd",
+          "Id": "cd201ea1-61bc-48d4-9b97-9dadf9418eb1",
           "Name": "FR - Tech 4 - Sujet 1"
         },
         {
-          "Id": "615f17eb-2c5b-4494-8541-4304435ca306",
+          "Id": "466519b7-17dc-4d06-8ef4-e80216b4a58a",
           "Name": "FR - Tech 4 - Sujet 2"
         }
       ]
@@ -37,7 +37,7 @@
   ],
   "Categories": [
     {
-      "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
+      "Id": "25b253d7-374a-4693-b2a7-3d703c8fec03",
       "Name": "Catégorie 1",
       "Image": "",
       "TechnologyId": "",
@@ -45,7 +45,7 @@
       "Source": "Microsoft",
       "SubCategories": [
         {
-          "Id": "9bde32c3-2f0b-4201-b4a3-74cef2c8f61d",
+          "Id": "a4f33821-d66f-4764-b6a8-0dfb24f5898b",
           "Name": "Catégorie 1-1",
           "Image": "images/categories/first_days.png",
           "TechnologyId": "",
@@ -54,7 +54,7 @@
           "SubCategories": []
         },
         {
-          "Id": "07aa7fb7-a187-4a04-a044-f881626a8cba",
+          "Id": "0c24adc4-1824-4938-9766-2d12257ec087",
           "Name": "Catégorie 1-2",
           "Image": "images/categories/recommended.png",
           "TechnologyId": "",
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "Id": "4f7378cd-7c40-4a99-9617-94681300c828",
+      "Id": "d9d9371a-0725-496a-800b-9fc574b10cea",
       "Name": "Catégorie 2",
       "Image": "",
       "TechnologyId": "",
@@ -73,16 +73,16 @@
       "Source": "Microsoft",
       "SubCategories": [
         {
-          "Id": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
+          "Id": "2e97b620-167f-4b1a-beda-11baddcdbc66",
           "Name": "Catégorie 2-1",
           "Image": "images/categories/modern_workplace_trainingx.png",
-          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+          "TechnologyId": "87b61491-0170-4fea-afcf-fd91714f21c5",
           "SubjectId": null,
           "Source": "Microsoft",
           "SubCategories": []
         },
         {
-          "Id": "9eb8fc25-dd5b-4459-81e9-ae382aca7a78",
+          "Id": "95f76d0b-643f-4840-81c5-e5a9d9867b80",
           "Name": "Catégorie 2-2",
           "Image": "images/categories/work_remotely.png",
           "TechnologyId": "",
@@ -91,10 +91,10 @@
           "SubCategories": []
         },
         {
-          "Id": "51a0828d-1d27-4931-b547-9f2a698f33d8",
+          "Id": "2c8d6b76-6b30-4a45-8b11-846f920a5eee",
           "Name": "Catégorie 2-3",
           "Image": "images/categories/LP-security-subcategory.png",
-          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+          "TechnologyId": "87b61491-0170-4fea-afcf-fd91714f21c5",
           "SubjectId": null,
           "Source": "Microsoft",
           "SubCategories": []
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "Id": "618da7fa-0ed2-4653-9dfd-271c3bbe3a44",
+      "Id": "e43d48ba-3978-4e2f-92a0-1db607c660f7",
       "Name": "Produits",
       "Image": "",
       "TechnologyId": "",
@@ -110,7 +110,7 @@
       "Source": "Microsoft",
       "SubCategories": [
         {
-          "Id": "46589138-0dde-4ea5-b9a1-313481a8eb06",
+          "Id": "2ceca92a-7fc2-4bcc-98b7-e03a25c7cec9",
           "Name": "Produit 1",
           "Image": "images/categories/outlook.png",
           "TechnologyId": "c71d06be-133b-4c49-8fbf-404f7cc3c38f",
@@ -119,7 +119,7 @@
           "SubCategories": []
         },
         {
-          "Id": "4ee4d22a-7d53-48bb-9a14-adf34d01cd75",
+          "Id": "cd825d74-0804-4597-92e8-f268392010ab",
           "Name": "Produit 2",
           "Image": "images/categories/onedrive.png",
           "TechnologyId": "452e503b-bafb-4023-b00d-b6d9b1701596",
@@ -128,7 +128,7 @@
           "SubCategories": []
         },
         {
-          "Id": "f9b14990-420a-4678-87a8-8428928186c6",
+          "Id": "0edb472e-736f-4f49-8766-deb02c0d9b1d",
           "Name": "Produit 3",
           "Image": "images/categories/word.png",
           "TechnologyId": "0eb89b8a-87cf-4388-b146-1e073588b029",
@@ -141,15 +141,15 @@
   ],
   "Audiences": [
     {
-      "Id": "9fcd26c3-bcca-4452-a40a-f87e0daed348",
+      "Id": "073e8810-e7b4-4c8e-a3b0-4d01e920a3b4",
       "Name": "Audience 1"
     },
     {
-      "Id": "41779dd0-ae42-4a62-8b66-bd87c137f4ac",
+      "Id": "1aa3f8dc-578f-4b9b-802c-8f311f9b7df1",
       "Name": "Audience 2"
     },
     {
-      "Id": "97150537-2c2f-42f9-8bc6-73e68fda0d38",
+      "Id": "61ff0d0f-e637-4768-a2d5-5de351d3a3fd",
       "Name": "Audience 3"
     }
   ],
@@ -161,7 +161,7 @@
   ],
   "Levels": [
     {
-      "Id": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+      "Id": "23b9fddc-8a21-442f-92e2-1ed44ac5fbd8",
       "Name": "Débutant"
     },
     {

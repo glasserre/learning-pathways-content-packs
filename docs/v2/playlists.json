@@ -710,7 +710,7 @@
     "Category": "Get Started",
     "SubCategory": "First Days",
     "Source": "Microsoft",
-    "CatId": "9bde32c3-2f0b-4201-b4a3-74cef2c8f61d",
+    "CatId": "a4f33821-d66f-4764-b6a8-0dfb24f5898b",
     "Description": "Learn how to get started quickly with Office 365 with six simple steps",
     "StatusTag": "",
     "Assets": [
@@ -734,7 +734,7 @@
     "Category": "Products",
     "SubCategory": "OneDrive",
     "Source": "Microsoft",
-    "CatId": "4ee4d22a-7d53-48bb-9a14-adf34d01cd75",
+    "CatId": "cd825d74-0804-4597-92e8-f268392010ab",
     "Description": "Collaborate and stay connected with OneDrive",
     "StatusTag": "",
     "Assets": [
@@ -757,7 +757,7 @@
     "Category": "Products",
     "SubCategory": "OneDrive",
     "Source": "Microsoft",
-    "CatId": "4ee4d22a-7d53-48bb-9a14-adf34d01cd75",
+    "CatId": "cd825d74-0804-4597-92e8-f268392010ab",
     "Description": "Learn about OneDrive, OneDrive basics, and set up OneDrive",
     "StatusTag": "",
     "Assets": [
@@ -780,7 +780,7 @@
     "Category": "Products",
     "SubCategory": "OneDrive",
     "Source": "Microsoft",
-    "CatId": "4ee4d22a-7d53-48bb-9a14-adf34d01cd75",
+    "CatId": "cd825d74-0804-4597-92e8-f268392010ab",
     "Description": "Access files and folders anywhere with OneDrive",
     "StatusTag": "",
     "Assets": [
@@ -803,7 +803,7 @@
     "Category": "Products",
     "SubCategory": "OneDrive",
     "Source": "Microsoft",
-    "CatId": "4ee4d22a-7d53-48bb-9a14-adf34d01cd75",
+    "CatId": "cd825d74-0804-4597-92e8-f268392010ab",
     "Description": "Use OneDrive to share files, control viewing and editing, and work together at the same time",
     "StatusTag": "",
     "Assets": [
@@ -980,7 +980,7 @@
     "Category": "Products",
     "SubCategory": "Outlook",
     "Source": "Microsoft",
-    "CatId": "46589138-0dde-4ea5-b9a1-313481a8eb06",
+    "CatId": "2ceca92a-7fc2-4bcc-98b7-e03a25c7cec9",
     "Description": "With Outlook, you can add an email account, create and send email, manage calander and contacts, and collaborate",
     "StatusTag": "",
     "Assets": [
@@ -1002,7 +1002,7 @@
     "Category": "Products",
     "SubCategory": "Outlook",
     "Source": "Microsoft",
-    "CatId": "46589138-0dde-4ea5-b9a1-313481a8eb06",
+    "CatId": "2ceca92a-7fc2-4bcc-98b7-e03a25c7cec9",
     "Description": "Get an overview of Outlook. Learn how to add an Outlook.com, Office 365, or Gmail account.",
     "StatusTag": "",
     "Assets": [
@@ -1022,7 +1022,7 @@
     "Category": "Products",
     "SubCategory": "Outlook",
     "Source": "Microsoft",
-    "CatId": "46589138-0dde-4ea5-b9a1-313481a8eb06",
+    "CatId": "2ceca92a-7fc2-4bcc-98b7-e03a25c7cec9",
     "Description": "Discover your Microsoft Outlook inbox",
     "StatusTag": "",
     "Assets": [
@@ -1044,7 +1044,7 @@
     "Category": "Products",
     "SubCategory": "Outlook",
     "Source": "Microsoft",
-    "CatId": "46589138-0dde-4ea5-b9a1-313481a8eb06",
+    "CatId": "2ceca92a-7fc2-4bcc-98b7-e03a25c7cec9",
     "Description": "Set up automatic replies for when you are out-of-office",
     "StatusTag": "",
     "Assets": [
@@ -1065,7 +1065,7 @@
     "Category": "Products",
     "SubCategory": "Outlook",
     "Source": "Microsoft",
-    "CatId": "46589138-0dde-4ea5-b9a1-313481a8eb06",
+    "CatId": "2ceca92a-7fc2-4bcc-98b7-e03a25c7cec9",
     "Description": "Set categories, flags, or reminders. Organize email with folders or set up Rules.",
     "StatusTag": "",
     "Assets": [
@@ -1085,7 +1085,7 @@
     "Category": "Products",
     "SubCategory": "Outlook",
     "Source": "Microsoft",
-    "CatId": "46589138-0dde-4ea5-b9a1-313481a8eb06",
+    "CatId": "2ceca92a-7fc2-4bcc-98b7-e03a25c7cec9",
     "Description": "Add a contact, create a contact group, import and export contacts, or create tasks or a to-do list.",
     "StatusTag": "",
     "Assets": [
@@ -1107,7 +1107,7 @@
     "Category": "Products",
     "SubCategory": "Outlook",
     "Source": "Microsoft",
-    "CatId": "46589138-0dde-4ea5-b9a1-313481a8eb06",
+    "CatId": "2ceca92a-7fc2-4bcc-98b7-e03a25c7cec9",
     "Description": "Create appointments and meetings, share your calendar or search for calendar items.",
     "StatusTag": "",
     "Assets": [
@@ -1413,7 +1413,7 @@
     "Category": "Products",
     "SubCategory": "Word",
     "Source": "Microsoft",
-    "CatId": "f9b14990-420a-4678-87a8-8428928186c6",
+    "CatId": "0edb472e-736f-4f49-8766-deb02c0d9b1d",
     "Description": "Create, design, edit, and save a document with Word",
     "StatusTag": "",
     "Assets": [
@@ -1435,7 +1435,7 @@
     "Category": "Products",
     "SubCategory": "Word",
     "Source": "Microsoft",
-    "CatId": "f9b14990-420a-4678-87a8-8428928186c6",
+    "CatId": "0edb472e-736f-4f49-8766-deb02c0d9b1d",
     "Description": "Create and format a document, track changes, and collaborate with others",
     "StatusTag": "",
     "Assets": [
@@ -1454,7 +1454,7 @@
     "Category": "Products",
     "SubCategory": "Word",
     "Source": "Microsoft",
-    "CatId": "f9b14990-420a-4678-87a8-8428928186c6",
+    "CatId": "0edb472e-736f-4f49-8766-deb02c0d9b1d",
     "Description": "Add, replace, and format text in Word. Insert and remove hyperlinks, and show word count",
     "StatusTag": "",
     "Assets": [
@@ -1477,7 +1477,7 @@
     "Category": "Products",
     "SubCategory": "Word",
     "Source": "Microsoft",
-    "CatId": "f9b14990-420a-4678-87a8-8428928186c6",
+    "CatId": "0edb472e-736f-4f49-8766-deb02c0d9b1d",
     "Description": "Create a newsletter column, change page orientation, add a border, header, or footer, insert a page break or number, and create a table of contents",
     "StatusTag": "",
     "Assets": [
@@ -1502,7 +1502,7 @@
     "Category": "Products",
     "SubCategory": "Word",
     "Source": "Microsoft",
-    "CatId": "f9b14990-420a-4678-87a8-8428928186c6",
+    "CatId": "0edb472e-736f-4f49-8766-deb02c0d9b1d",
     "Description": "Insert tables, pictures, icons, WordArt and watermarks. Learn how to rotate a picture and wrap text around a picture.",
     "StatusTag": "",
     "Assets": [
@@ -1527,7 +1527,7 @@
     "Category": "Products",
     "SubCategory": "Word",
     "Source": "Microsoft",
-    "CatId": "f9b14990-420a-4678-87a8-8428928186c6",
+    "CatId": "0edb472e-736f-4f49-8766-deb02c0d9b1d",
     "Description": "Save, print, or convert a document to PDF. Print envelopes and labels.",
     "StatusTag": "",
     "Assets": [
@@ -1551,7 +1551,7 @@
     "Category": "Products",
     "SubCategory": "Word",
     "Source": "Microsoft",
-    "CatId": "f9b14990-420a-4678-87a8-8428928186c6",
+    "CatId": "0edb472e-736f-4f49-8766-deb02c0d9b1d",
     "Description": "Collaborate in Word by incerting comments and tracking changes. Use Word on a mobile device.",
     "StatusTag": "",
     "Assets": [
@@ -1574,7 +1574,7 @@
     "Category": "Products",
     "SubCategory": "Word",
     "Source": "Microsoft",
-    "CatId": "f9b14990-420a-4678-87a8-8428928186c6",
+    "CatId": "0edb472e-736f-4f49-8766-deb02c0d9b1d",
     "Description": "Write an equation or formula in Word, indent a paragraph, insert lines, create a bibliography, and insert footnotes and endnotes",
     "StatusTag": "",
     "Assets": [
@@ -1596,7 +1596,7 @@
     "Category": "Products",
     "SubCategory": "Word",
     "Source": "Microsoft",
-    "CatId": "f9b14990-420a-4678-87a8-8428928186c6",
+    "CatId": "0edb472e-736f-4f49-8766-deb02c0d9b1d",
     "Description": "Learn to make Word accessible: Use a screen reader, shortcuts, and do things with Tell Me",
     "StatusTag": "",
     "Assets": [
@@ -1836,7 +1836,7 @@
     "Category": "Scenarios",
     "SubCategory": "Modern Workplace",
     "Source": "SOC",
-    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
+    "CatId": "2e97b620-167f-4b1a-beda-11baddcdbc66",
     "Description": "Microsoft 365 and the power of the cloud make it easy for you to work in new and more productive ways, from anywhere, on any device.",
     "StatusTag": "New",
     "Assets": [
@@ -1862,7 +1862,7 @@
     "Category": "Scenarios",
     "SubCategory": "Modern Workplace",
     "Source": "SOC",
-    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
+    "CatId": "2e97b620-167f-4b1a-beda-11baddcdbc66",
     "Description": "How teams connect and exchange information is evolving. People expect to collaborate with teammates, wherever they are located.",
     "StatusTag": "New",
     "Assets": [
@@ -1884,7 +1884,7 @@
     "Category": "Scenarios",
     "SubCategory": "Modern Workplace",
     "Source": "SOC",
-    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
+    "CatId": "2e97b620-167f-4b1a-beda-11baddcdbc66",
     "Description": "Use Microsoft 365 across your organization",
     "StatusTag": "New",
     "Assets": [
@@ -1904,7 +1904,7 @@
     "Category": "Scenarios",
     "SubCategory": "Modern Workplace",
     "Source": "Microsoft",
-    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
+    "CatId": "2e97b620-167f-4b1a-beda-11baddcdbc66",
     "Description": "Discover new ways to simplify your workday with Office365",
     "StatusTag": "New",
     "Assets": [
@@ -1952,7 +1952,7 @@
     "Category": "Products",
     "SubCategory": "Word",
     "Source": "SOC",
-    "CatId": "f9b14990-420a-4678-87a8-8428928186c6",
+    "CatId": "0edb472e-736f-4f49-8766-deb02c0d9b1d",
     "Description": "Learn to format text, create a bulleted or numbered list, change the line spacing in Word, apply styles and apply themes",
     "StatusTag": "New",
     "Assets": [
@@ -2249,7 +2249,7 @@
     "Category": "Products",
     "SubCategory": "Outlook",
     "Source": "SOC",
-    "CatId": "46589138-0dde-4ea5-b9a1-313481a8eb06",
+    "CatId": "2ceca92a-7fc2-4bcc-98b7-e03a25c7cec9",
     "Description": "Manage your inbox and learn how to RSVP to invites instantly, swipe right to manage your inbox, create focused inbox, and use Android widgets.",
     "StatusTag": "New",
     "Assets": [
@@ -2270,7 +2270,7 @@
     "Category": "Products",
     "SubCategory": "Outlook",
     "Source": "SOC",
-    "CatId": "46589138-0dde-4ea5-b9a1-313481a8eb06",
+    "CatId": "2ceca92a-7fc2-4bcc-98b7-e03a25c7cec9",
     "Description": "Outlook mobile helps you find a time when everyone is available for a meeting.",
     "StatusTag": "New",
     "Assets": [
@@ -2295,7 +2295,7 @@
     "Category": "Products",
     "SubCategory": "Outlook",
     "Source": "SOC",
-    "CatId": "46589138-0dde-4ea5-b9a1-313481a8eb06",
+    "CatId": "2ceca92a-7fc2-4bcc-98b7-e03a25c7cec9",
     "Description": "Outlook Mobile makes it easy to find contacts and learn more about them. ",
     "StatusTag": "New",
     "Assets": [
@@ -2339,7 +2339,7 @@
     "Category": "Products",
     "SubCategory": "Outlook",
     "Source": "SOC",
-    "CatId": "46589138-0dde-4ea5-b9a1-313481a8eb06",
+    "CatId": "2ceca92a-7fc2-4bcc-98b7-e03a25c7cec9",
     "Description": "Microsoft Search in Outlook mobile finds what you need fast. Effortlessly get to your top contacts, calendar events and files with improved email search.",
     "StatusTag": "New",
     "Assets": [
@@ -2557,7 +2557,7 @@
     "Category": "Get Started",
     "SubCategory": "Recommended",
     "Source": "Microsoft",
-    "CatId": "07aa7fb7-a187-4a04-a044-f881626a8cba",
+    "CatId": "0c24adc4-1824-4938-9766-2d12257ec087",
     "Description": "When you have a place to create and make decisions as a team, there’s no limit to what you can achieve. Learn how to use Teams to bring everything together in a shared workspace where you can chat, meet, share files, and work with business apps.",
     "StatusTag": "",
     "Assets": [
@@ -2581,7 +2581,7 @@
     "Category": "Get Started",
     "SubCategory": "Recommended",
     "Source": "Microsoft",
-    "CatId": "07aa7fb7-a187-4a04-a044-f881626a8cba",
+    "CatId": "0c24adc4-1824-4938-9766-2d12257ec087",
     "Description": "Get things done from virtually anywhere, faster. Learn how to take advantage of the Office integration with OneDrive and SharePoint to access, share, and coauthor documents.",
     "StatusTag": "",
     "Assets": [
@@ -2605,7 +2605,7 @@
     "Category": "Get Started",
     "SubCategory": "Recommended",
     "Source": "Microsoft",
-    "CatId": "07aa7fb7-a187-4a04-a044-f881626a8cba",
+    "CatId": "0c24adc4-1824-4938-9766-2d12257ec087",
     "Description": "Learn how to use OneDrive to share Microsoft Office documents, other files, and entire folders with people. The files and folders you store in OneDrive are private until you decide to share them and you can stop sharing at any time.",
     "StatusTag": "",
     "Assets": [
@@ -2631,7 +2631,7 @@
     "Category": "Get Started",
     "SubCategory": "Recommended",
     "Source": "Microsoft",
-    "CatId": "07aa7fb7-a187-4a04-a044-f881626a8cba",
+    "CatId": "0c24adc4-1824-4938-9766-2d12257ec087",
     "Description": "SharePoint powers sharing and collaboration on the intranet. Learn how to manage and share files or folders—within team sites or intranet sites, and inside or outside your organization.",
     "StatusTag": "",
     "Assets": [
@@ -2654,7 +2654,7 @@
     "Category": "Get Started",
     "SubCategory": "Recommended",
     "Source": "Microsoft",
-    "CatId": "07aa7fb7-a187-4a04-a044-f881626a8cba",
+    "CatId": "0c24adc4-1824-4938-9766-2d12257ec087",
     "Description": "Yammer enables connections to people and information from across your organization that you never knew existed. Learn how to use Yammer to discuss ideas, share updates, and crowdsource answers from coworkers from anywhere.",
     "StatusTag": "",
     "Assets": [

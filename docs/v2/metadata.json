@@ -108,7 +108,7 @@
   ],
   "Categories": [
     {
-      "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
+      "Id": "25b253d7-374a-4693-b2a7-3d703c8fec03",
       "Name": "Get Started",
       "Security": "Visitors",
       "Image": "",
@@ -117,7 +117,7 @@
       "Source": "Microsoft",
       "SubCategories": [
         {
-          "Id": "9bde32c3-2f0b-4201-b4a3-74cef2c8f61d",
+          "Id": "a4f33821-d66f-4764-b6a8-0dfb24f5898b",
           "Name": "First Days",
           "Security": "Visitors",
           "Image": "images/categories/first_days.png",
@@ -127,7 +127,7 @@
           "SubCategories": []
         },
         {
-          "Id": "07aa7fb7-a187-4a04-a044-f881626a8cba",
+          "Id": "0c24adc4-1824-4938-9766-2d12257ec087",
           "Name": "Recommended",
           "Security": "Visitors",
           "Image": "images/categories/recommended.png",
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "Id": "618da7fa-0ed2-4653-9dfd-271c3bbe3a44",
+      "Id": "e43d48ba-3978-4e2f-92a0-1db607c660f7",
       "Name": "Products",
       "Security": "Visitors",
       "Image": "",
@@ -148,7 +148,7 @@
       "Source": "Microsoft",
       "SubCategories": [
         {
-          "Id": "46589138-0dde-4ea5-b9a1-313481a8eb06",
+          "Id": "2ceca92a-7fc2-4bcc-98b7-e03a25c7cec9",
           "Name": "Outlook",
           "Security": "Visitors",
           "Image": "images/categories/outlook.png",
@@ -158,7 +158,7 @@
           "SubCategories": []
         },
         {
-          "Id": "4ee4d22a-7d53-48bb-9a14-adf34d01cd75",
+          "Id": "cd825d74-0804-4597-92e8-f268392010ab",
           "Name": "OneDrive",
           "Security": "Visitors",
           "Image": "images/categories/onedrive.png",
@@ -168,7 +168,7 @@
           "SubCategories": []
         },
         {
-          "Id": "f9b14990-420a-4678-87a8-8428928186c6",
+          "Id": "0edb472e-736f-4f49-8766-deb02c0d9b1d",
           "Name": "Word",
           "Security": "Visitors",
           "Image": "images/categories/word.png",
@@ -300,7 +300,7 @@
       ]
     },
     {
-      "Id": "4f7378cd-7c40-4a99-9617-94681300c828",
+      "Id": "d9d9371a-0725-496a-800b-9fc574b10cea",
       "Name": "Scenarios",
       "Security": "Visitors",
       "Image": "",
@@ -309,7 +309,7 @@
       "Source": "Microsoft",
       "SubCategories": [
         {
-          "Id": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
+          "Id": "2e97b620-167f-4b1a-beda-11baddcdbc66",
           "Name": "Modern Workplace",
           "Security": "Visitors",
           "Image": "images/categories/modern_workplace_trainingx.png",
